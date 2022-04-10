@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fon_border">3dp</dimen>
+    <dimen name="t_size">50sp</dimen>
+    <dimen name="x_1">0.498</dimen>
+    <dimen name="y_1">0.162</dimen>
+    <dimen name="y_2">0.296</dimen>
+    <dimen name="x_3">1.0</dimen>
+    <dimen name="y_3">0.964</dimen>
+    <dimen name="y">0.498</dimen>
+    <dimen name="x">0.423</dimen>
+    <dimen name="xx">0.241</dimen>
+    <dimen name="xxx">0.595</dimen>
+    <dimen name="x1">0.498</dimen>
+    <dimen name="y1">0.248</dimen>
+    <dimen name="x2">0.498</dimen>
+    <dimen name="y2">0.248</dimen>
+    <dimen name="size">4dp</dimen>
+
+</resources>
